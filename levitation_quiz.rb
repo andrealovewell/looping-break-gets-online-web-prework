@@ -1,5 +1,5 @@
 
-def levitation_quiz
+#def levitation_quiz
 
   loop do
     puts "What is the spell that enacts levitation?"
@@ -7,4 +7,4 @@ def levitation_quiz
     break if answer = "Wingardium Leviosa"
   end
 puts "You passed the quiz"
-end
+#end
